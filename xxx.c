@@ -1,0 +1,4 @@
+xxx()
+{
+    printf("xxx")
+}
